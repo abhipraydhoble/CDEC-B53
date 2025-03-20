@@ -1,7 +1,7 @@
 # Devops-Session
 
 
-# $$\color{orange} \textbf{Introduction To Devops}$$
+# $${\color{orange} \textbf{Introduction To Devops}}$$
 
 ## Project
 - A project is like taking on a task that has a clear goal, a plan, and a deadline.
@@ -12,7 +12,7 @@
 
 
 
-##  Software Development Life Cycle (SDLC)
+# $${\color{red} \textbf{ Software Development Life Cycle (SDLC)}}$$
 
 - The Software Development Life Cycle (SDLC) is a structured approach to building software, ensuring quality, efficiency, and reliability. 
 
@@ -101,10 +101,10 @@ This document provides a simple explanation of some essential DevOps tools.
 
 ---
 
-### ${\color{green} \textbf{Capital Expenditure }}$
+### ${\color{blue} \textbf{Capital Expenditure }}$
 - CapEx refers to the money a company invests in assets like buildings, machinery, or equipment that will be used for a long time
 
-### ${\color{green} \textbf{Operational Expenditure }}$
+### ${\color{blue} \textbf{Operational Expenditure }}$
 - This refers to the day-to-day expenses that a company incurs in order to run its business.
 - It includes costs like rent, utilities, wages, office supplies, and other expenses necessary for ongoing business operations.
 
