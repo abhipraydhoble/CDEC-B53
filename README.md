@@ -4,10 +4,6 @@
 ## Project
 - A project is like taking on a task that has a clear goal, a plan, and a deadline.
 - simply getting something done, step by step, to achieve a clear result.
-## Project Phases
-
-![image](https://github.com/user-attachments/assets/05929b67-ee27-498c-9202-1782f9c2726f)
-
 
 
 # $${\color{red} \textbf{ Software Development Life Cycle (SDLC)}}$$
