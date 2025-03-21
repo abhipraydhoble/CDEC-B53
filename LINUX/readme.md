@@ -102,7 +102,7 @@ uname -a
 ````
 - check os information
 ````
-etc /etc/os-release
+cat /etc/os-release
 ````
 - check free memory
 ````
