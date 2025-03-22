@@ -12,9 +12,7 @@ touch file1.txt
 ````
 cat > file2.txt
 ````
-**Note:**
--  > will override file content
-- >> will append (both old data and new will stay in file)
+**Note:** > will override file content   and >> will append (both old data and new will stay in file)
 
 - echo "Hello World" > greetings.txt → Creates a file greetings.txt and writes Hello World into it.
 ````
